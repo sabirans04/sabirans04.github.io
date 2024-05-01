@@ -1,0 +1,32 @@
+{
+    "theme_color": "#5e17eb",
+    "background_color": "#dfcfff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Sabir Ansari",
+    "short_name": "Sabir Ansari",
+    "description": "Welcome to sabir's Portfolio",
+    "icons": [
+        {
+            "src": "/assets/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
