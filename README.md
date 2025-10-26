@@ -19,7 +19,7 @@ Showcases projects, skills, and achievements in a professional layout with smoot
 ### ✨ Features
 - Fully responsive and mobile-friendly design
 - SEO optimized structure
-- Dynamic project section with JSON or API data
+- Dynamic project section
 - Fast loading and performance-focused
 - Easy to customize for any developer
 
